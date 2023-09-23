@@ -9,7 +9,7 @@ public class Question9 {
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter any integer : ");
         num = sc.nextInt();
-    System.out.println("Multiplication otable of  "+num);
+    System.out.println("Multiplication table of  "+num);
     for(int i=1;i<=10;i++)
     {
     
