@@ -43,7 +43,7 @@ class Papaya extends Tree implements Color {
         this.color = color;
     }
 
-    @Override
+    
     public String getColor() {
         return color;
     }
