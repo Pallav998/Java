@@ -1,0 +1,28 @@
+//WAP where deparment is a parent class and course is a child class and use any method.
+class Department{
+    void faculty()
+    {
+        System.out.println("Faculty will take classes");  
+
+    }
+}
+class Course extends Department{
+    void student()
+    {
+        System.out.println(" Student will learn ");  
+
+    }
+}
+public class Inh3{
+ public static void main(String args[])
+ {
+    Course tryCourse = new Course();
+
+    tryCourse.faculty();
+
+    tryCourse.student();
+    
+       
+ }
+
+}
