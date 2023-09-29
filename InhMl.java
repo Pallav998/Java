@@ -41,7 +41,7 @@ class C extends B {
     }
 }
 
-public class InhMl {
+public class Inhml {
     public static void main(String[] args) {
         C r = new C();
         r.add();

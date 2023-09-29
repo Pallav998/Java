@@ -22,7 +22,7 @@ interface A
    }
    
 }
-   public class InhM2
+   public class Inhm2
    {
     public static void main(String args[])
     {
